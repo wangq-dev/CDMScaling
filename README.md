@@ -2,6 +2,8 @@
 
 This repository provides the implementation and resources for reproducing the experiments of Capability-Driven Multimodal Scaling Laws.
 
+**Paper:** [What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs](https://arxiv.org/abs/2608.00013)
+
 The Capability-Driven Multimodal Scaling Law predicts vision-language model (VLM) performance across diverse large language model (LLM) families before training by linking measurable textual capability from LLM benchmarks with the amount of multimodal training data. It models how efficiently textual skills transfer to multimodal tasks and how effectively additional data improves performance. Validated on over 150 VLMs built from 34 LLMs across 7 families, the law enables accurate extrapolation from small to large models, prediction of full training trajectories, and generalization to unseen families. It also uncovers benchmark biases, shows base LLMs often outperform instruction-tuned variants, and maps distinct family positions in the transfer–absorption space. This turns backbone selection from costly trial-and-error into a principled, quantitative process.
 
 <div align="center">
