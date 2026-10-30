@@ -10,7 +10,7 @@ This repository provides the implementation and resources for reproducing the ex
 
 - 📄 **Paper:** [arXiv](https://arxiv.org/abs/2608.00013)
 - 🌐 **Project Website:** [CDMScaling](https://wangq-dev.github.io/CDMScaling-Website/)
-- 🤗 **Model Weights:** [ModelScope](https://modelscope.ai/profile/wangq2k)
+- 🤖 **Model Weights:** [ModelScope](https://modelscope.ai/profile/wangq2k)
 - 💻 **Inference Code:** [CDMScaling-Inference](https://github.com/wangq-dev/CDMScaling-Inference)
 
 ## Overview
